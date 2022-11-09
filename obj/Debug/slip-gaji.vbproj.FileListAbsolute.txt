@@ -1,0 +1,12 @@
+D:\=============================KULIAH\SEMESTER 3\Elsa\UTS ALPRO\slip-gaji\obj\Debug\slip-gaji.vbproj.AssemblyReference.cache
+D:\=============================KULIAH\SEMESTER 3\Elsa\UTS ALPRO\slip-gaji\obj\Debug\slip-gaji.vbproj.SuggestedBindingRedirects.cache
+D:\=============================KULIAH\SEMESTER 3\Elsa\UTS ALPRO\slip-gaji\obj\Debug\slip_gaji.Resources.resources
+D:\=============================KULIAH\SEMESTER 3\Elsa\UTS ALPRO\slip-gaji\obj\Debug\slip-gaji.vbproj.GenerateResource.cache
+D:\=============================KULIAH\SEMESTER 3\Elsa\UTS ALPRO\slip-gaji\obj\Debug\slip-gaji.vbproj.CoreCompileInputs.cache
+D:\=============================KULIAH\SEMESTER 3\Elsa\UTS ALPRO\slip-gaji\bin\Debug\slip-gaji.exe.config
+D:\=============================KULIAH\SEMESTER 3\Elsa\UTS ALPRO\slip-gaji\bin\Debug\slip-gaji.exe
+D:\=============================KULIAH\SEMESTER 3\Elsa\UTS ALPRO\slip-gaji\bin\Debug\slip-gaji.pdb
+D:\=============================KULIAH\SEMESTER 3\Elsa\UTS ALPRO\slip-gaji\bin\Debug\slip-gaji.xml
+D:\=============================KULIAH\SEMESTER 3\Elsa\UTS ALPRO\slip-gaji\obj\Debug\slip-gaji.exe
+D:\=============================KULIAH\SEMESTER 3\Elsa\UTS ALPRO\slip-gaji\obj\Debug\slip-gaji.xml
+D:\=============================KULIAH\SEMESTER 3\Elsa\UTS ALPRO\slip-gaji\obj\Debug\slip-gaji.pdb

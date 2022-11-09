@@ -1,0 +1,20 @@
+﻿--------------------------------------------------------
+  SLIP GAJI : 1
+--------------------------------------------------------
+  1. Golongan               = Golongan 1
+  2. Jabatan                = Kepala
+  3. Status Pegawai         = Tetap
+  4. Jenis Kelamin          = Laki-laki
+  5. Status Kawin           = Kawin
+  6. Jumlah Anak            = 1
+  7. Gaji Pokok             = 1500000
+  8. Tunjangan Istri        = 15000
+  9. Tunjangan Anak         = 15000
+          Gaji Bruto        = 1530000
+  10. Potongan Koperasi     = 5000
+  11. Biaya Jabatan         = 75000
+  12. Dana Pensiun          = 75000
+          Gaji Netto        = 1675000
+--------------------------------------------------------
+                            Print : 07/11/2022-23:46:20
+--------------------------------------------------------
